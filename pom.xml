@@ -25,7 +25,7 @@
     <maven.compiler.target>${java.version}</maven.compiler.target>
 
     <!-- Sonar properties (do NOT put tokens here) -->
-    <sonar.host.url>http://3.27.78.81:9000</sonar.host.url>
+    <sonar.host.url>http://13.236.116.41:9000</sonar.host.url>
     <sonar.projectKey>spring-boot-demo</sonar.projectKey>
 
     <!-- JaCoCo XML path that Sonar will read -->
